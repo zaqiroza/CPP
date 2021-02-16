@@ -54,4 +54,6 @@ int main()
     //ceil(x) pembulatan ke atas
     //floor(x) pembulatan ke bawah
     //sqrt(x) akar kuadrat
+    //log(x) logaritma naturalis
+    //log10(x) logaritma basis 10
 }
